@@ -1,0 +1,55 @@
+.Inicio {
+    padding: 20px 500px;
+    border: 2px solid red;
+}
+ ul {
+color: black;
+}
+header {
+    padding: 20px 5px;
+}
+#nosotros {
+    color: black;
+    font-size: 20px;
+}
+.paragraph-orange {
+    color: black;
+    background-color: orange;
+}
+#equiposdeAltaRotacion {
+    color: black;
+    font-size: 20px ;
+}
+.paragraph-red {
+    color: black;
+    background-color: red;
+}
+#Seriesonline {
+    color: black;
+    font-size: 20px;
+}
+.paragraph-green{
+    color: black;
+    background-color: greenyellow;
+}
+body {
+background-image: url('imagenes/FONDO-LYONN.jfif');
+background-size: contain;
+background-repeat: repeat;
+}
+.paragraph-yellow{
+    color: black;
+    background-color: yellow;
+}
+footer {    
+    list-style: none;
+}
+.FB {
+    width: 50px;
+    height: 50px;
+}
+.IG {
+    width: 50px;
+    height: 50px;
+}
+
