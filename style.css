@@ -10,13 +10,19 @@ color: black;
 header {
     padding: 20px 5px;
 }
+.Principio{
+    color: red;
+    background-color: black;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
+}
 #nosotros {
     color: black;
     font-size: 20px;
 }
 .paragraph-orange {
     color: black;
-    background-color: orange;
 }
 #equiposdeAltaRotacion {
     color: black;
@@ -38,6 +44,13 @@ body {
 background-image: url('imagenes/FONDO-LYONN.jfif');
 background-size: contain;
 background-repeat: repeat;
+}
+.Video{
+    color: red;
+    background-color: black;
+    padding: 20px 20px;
+    display: flex;
+    justify-content: center;
 }
 .paragraph-yellow{
     color: black;
