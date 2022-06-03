@@ -1,6 +1,8 @@
 .Inicio {
     padding: 20px 500px;
     border: 2px solid red;
+    display: flex;
+    justify-content: flex-end;
 }
  ul {
 color: black;
