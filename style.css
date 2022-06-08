@@ -1,14 +1,10 @@
-.Inicio {
-    padding: 20px 500px;
-    border: 2px solid red;
+body{
+    background-image: url('imagenes/FONDO-PANTALLA.jpeg');
+    background-size: contain;
+}
+.cara-conteiner{
     display: flex;
-    justify-content: flex-end;
-}
- ul {
-color: black;
-}
-header {
-    padding: 20px 5px;
+    justify-content: left;
 }
 .Principio{
     color: red;
@@ -17,33 +13,45 @@ header {
     display: flex;
     justify-content: center;
 }
-#nosotros {
-    color: black;
-    font-size: 20px;
-}
-.paragraph-orange {
+a{
     color: black;
 }
-#equiposdeAltaRotacion {
-    color: black;
-    font-size: 20px ;
+.Inicio {
+    padding: 30px 550px;
+    display: flex;
+    justify-content: center;
 }
-.paragraph-red {
-    color: black;
+.cara{
+    padding: 50px;
+    padding-left: 20px;
+    list-style: none;
+
+}
+h1{
     background-color: red;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center ;
 }
-#Seriesonline {
-    color: black;
-    font-size: 20px;
+h2{
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
 }
-.paragraph-green{
-    color: black;
-    background-color: greenyellow;
+.equiposCtb{
+    width: 500px;
+    height: 300px;
 }
-body {
-background-image: url('imagenes/FONDO-LYONN.jfif');
-background-size: contain;
-background-repeat: repeat;
+.Online{
+    width: 500px;
+    height: 800px;
+}
+.modular{
+    width: 500px;
+    height: 300px;
 }
 .Video{
     color: red;
@@ -51,13 +59,6 @@ background-repeat: repeat;
     padding: 20px 20px;
     display: flex;
     justify-content: center;
-}
-.paragraph-yellow{
-    color: black;
-    background-color: yellow;
-}
-footer {    
-    list-style: none;
 }
 .FB {
     width: 50px;
